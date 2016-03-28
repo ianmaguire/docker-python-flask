@@ -1,4 +1,4 @@
-FROM python
+FROM python2
 
 MAINTAINER Ian Maguire <mr.scalability@gmail.com>
 
